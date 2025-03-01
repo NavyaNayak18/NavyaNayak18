@@ -3,6 +3,8 @@
 <p align="left"> 
    <img src="https://komarev.com/ghpvc/?username=NavyaNayak18&label=Profile%20views&color=0e75b6&style=flat" alt="NavyaNayak18" /> 
 </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/navya-nayak18)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/NavyaNayak18)
 
 ## 👋 Introduction
 
@@ -16,13 +18,13 @@ Hey there! I’m Navya Nayak, a passionate **Fullstack Developer** and **AI Enth
 - Utilized **MovieLens 100k dataset** to predict personalized recommendations.
 - Implemented **user and movie embeddings** with a **neural network model** for rating predictions.
 
-### 🍰 The Bakers Web Application | React, Node.js, MongoDB [🔗](https://github.com/NavyaNayak18/The-Bakers)
+### 🍰 The Bakers Web Application | React, Node.js, MongoDB [🔗](https://github.com/NavyaNayak18/Bakers-Website)
 
 - Developed an **online bakery marketplace** for bakers and customers.
 - Implemented **user authentication, product catalog, and real-time order tracking**.
 - Integrated **REST APIs** for seamless frontend-backend communication.
 
-### 🏋️ FitTrack - Fitness Tracker App | Firebase, Expo, TypeScript [🔗](https://github.com/NavyaNayak18/FitTrack)
+### 🏋️ FitTrack - Fitness Tracker App | Firebase, Expo, TypeScript [🔗](https://github.com/NavyaNayak18/Fitness-Tracker-App)
 
 - Built a **cross-platform fitness tracking app** with GPS tracking and accelerometer-based step counting.
 - Integrated **nutrition tracking, workout logging, and goal-setting features**.
@@ -34,7 +36,7 @@ Hey there! I’m Navya Nayak, a passionate **Fullstack Developer** and **AI Enth
 - Implemented **complex queries, views, and transactions** for efficient data retrieval.
 - Ensured **referential integrity** with foreign keys linking multiple tables.
 
-### 📝 Quick Recap - AI-Powered Meeting Summarization | Firebase, React, NLP [🔗](https://github.com/NavyaNayak18/Quick-Recap)
+### 📝 Quick Recap - AI-Powered Meeting Summarization | Firebase, React, NLP [🔗]([https://github.com/NavyaNayak18/Quick-Recap](https://github.com/htmw/2025S-Bros-of-Balayya/wiki))
 
 - Developing a web app that generates AI-powered meeting summaries automatically.
 - Using Natural Language Processing (NLP) to extract key takeaways and insights from meeting transcripts.
