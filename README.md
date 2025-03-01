@@ -3,15 +3,13 @@
 <p align="left"> 
    <img src="https://komarev.com/ghpvc/?username=NavyaNayak18&label=Profile%20views&color=0e75b6&style=flat" alt="NavyaNayak18" /> 
 </p>
+<a href="https://linkedin.com/in/navya-nayak18" style="text-decoration: none;">
+   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Badge" style="text-decoration: none;"/>
+</a>
 
-<p align="left">
-   <a href="https://linkedin.com/in/navya-nayak18">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Badge"/>
-   </a>
-   <a href="https://github.com/NavyaNayak18">
-      <img src="https://img.shields.io/badge/GitHub-Follow-green" alt="GitHub Badge"/>
-   </a>
-</p>
+<a href="https://github.com/NavyaNayak18" style="text-decoration: none;">
+   <img src="https://img.shields.io/badge/GitHub-Follow-green" alt="GitHub Badge" style="border:none; text-decoration: none;"/>
+</a>  
 
 ## 👋 Introduction
 
