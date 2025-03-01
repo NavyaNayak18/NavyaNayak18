@@ -41,7 +41,7 @@ Hey there! I’m Navya Nayak, a passionate **Fullstack Developer** and **AI Enth
 - Implemented **complex queries, views, and transactions** for efficient data retrieval.
 - Ensured **referential integrity** with foreign keys linking multiple tables.
 
-### 📝 Quick Recap - AI-Powered Meeting Summarization | Firebase, React, NLP [🔗]([https://github.com/NavyaNayak18/Quick-Recap](https://github.com/htmw/2025S-Bros-of-Balayya/wiki))
+### 📝 Quick Recap - AI-Powered Meeting Summarization | Firebase, React, NLP [🔗](https://github.com/NavyaNayak18/Quick-Recap](https://github.com/htmw/2025S-Bros-of-Balayya/wiki)
 
 - Developing a web app that generates AI-powered meeting summaries automatically.
 - Using Natural Language Processing (NLP) to extract key takeaways and insights from meeting transcripts.
