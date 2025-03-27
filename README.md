@@ -35,12 +35,6 @@ Hey there! I’m Navya Nayak, a passionate **Fullstack Developer** and **AI Enth
 - Integrated **nutrition tracking, workout logging, and goal-setting features**.
 - Used **Figma for UI/UX design**, ensuring a smooth and engaging user experience.
 
-### 📚 Library Database System | SQL, MySQL [🔗](https://github.com/NavyaNayak18/Library-Database)
-
-- Designed a **SQL database** for managing books, authors, users, and transactions.
-- Implemented **complex queries, views, and transactions** for efficient data retrieval.
-- Ensured **referential integrity** with foreign keys linking multiple tables.
-
 ### 📝 Quick Recap - AI-Powered Meeting Summarization | Firebase, React, NLP [🔗](https://github.com/htmw/2025S-Bros-of-Balayya/wiki)
 
 - Developing a web app that generates AI-powered meeting summaries automatically.
