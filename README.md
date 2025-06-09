@@ -46,7 +46,6 @@ Hey there! I’m Navya Nayak, a passionate **Fullstack Developer** and **AI Enth
 ## 💻 Technical Skills
 
 - **Languages**: Python, C, Java, HTML, CSS, JavaScript, SQL
-- **Frameworks & Libraries**: React.js, Node.js, TensorFlow, Keras
 - **Databases**: MySQL, MongoDB, Firebase, DynamoDB
 - **Tools**: Visual Studio, Postman, Jira, ServiceNow, Splunk, Git, Weka, Dynatrace, Expo
 - **Visualization & Analytics Tools**: Tableau, Grafana, Power BI, Figma, Clerk
